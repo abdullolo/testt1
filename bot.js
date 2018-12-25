@@ -4,9 +4,9 @@ console.log("Scrpit By Dream");
 
 
 client.on("ready", () => {
-let channel =     client.channels.get("526425902733590540")
+let channel =     client.channels.get("526927317440921611")
 setInterval(function() {
-channel.send(` V2VDONT LEMMIE LOLO GANG IS HERE 564578(&*^(878}"}"{MAfineafeafEOQRNEMQOR'SD;FASFSDFklDAM LONE `);
+channel.send(` LOLO GANGLOLO GANGLOLO GANGLOLO GANG LOLO GANG  `);
 }, 30)
 })
 
